@@ -1,0 +1,11 @@
+﻿<?xml version="1.0"?>
+<configuration date="2016/03/13" author="e.World Technology Ltd.">
+<project id="{19712832-2D58-4C9F-974D-7D048E8647A4}" file="" name="project1" product="PHPReportMaker" version="8.0" datetime="2016/03/13 21:35:46" languagefolder="phprptlang" userlevel="0,&quot;Default&quot;,0">
+<table id="tb_admin" name="tb_admin" caption="tb admin" userlevel="0,&quot;Default&quot;,0" priv="1"/>
+<table id="tb_confiram" name="tb_confiram" caption="tb confiram" userlevel="0,&quot;Default&quot;,0" priv="1"/>
+<table id="tb_member" name="tb_member" caption="tb member" userlevel="0,&quot;Default&quot;,0" priv="1"/>
+<table id="tb_reserve" name="tb_reserve" caption="tb reserve" userlevel="0,&quot;Default&quot;,0" priv="1"/>
+<table id="tb_rooms" name="tb_rooms" caption="tb rooms" userlevel="0,&quot;Default&quot;,0" priv="1"/>
+<table id="view1" name="view1" caption="view 1" userlevel="0,&quot;Default&quot;,0" priv="1"/>
+<table id="Report" name="Report" caption="Report" userlevel="0,&quot;Default&quot;,0" priv="1"/>
+</project></configuration>
